@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+Title:414ce-r
 
 # Username (this should match the folder name)
 authors:
@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: lover
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: The University of Manchester
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
